@@ -9,12 +9,11 @@ export const Container = styled.div`
 
       table{
           width: 100%;
-          
           border-spacing: 0 0.5rem;
 
             th{
                 text-align:left;
-                color: var(--text-body);
+                color: var(--text-title);
                 font-weight: 400;
                 padding: 1rem 2rem;  
                 line-height: 1.5rem;
@@ -44,5 +43,7 @@ export const Container = styled.div`
 
       }  
   
+
+
 
 `;

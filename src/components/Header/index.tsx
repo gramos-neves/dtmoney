@@ -18,7 +18,6 @@ const Header = ({ handleOpenNewTransactionModal}: HeaderProps) => {
                     Nova Transação
                 </button> 
 
-               
             </Content>
         </Container>
     )
